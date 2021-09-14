@@ -1,4 +1,7 @@
 ![Logo](https://www.clemson.edu/science/departments/math-stat/images/banner-mth-msdsa.jpg)
+---
+
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
 <h3 align="center">A passionate Data Analyst and Business Intelligence enthusiast from India , seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align='centre' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><p><img width="200" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif"><\p>
@@ -41,5 +44,16 @@
 <p><img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=saurabhgupta301&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"alt="saurabhgupta301" /></p>
 
 <p>&nbsp;<img align="centre" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhgupta301&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"alt="saurabhgupta301" /></p>
+  
+---
+
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=saurabhgupta301.saurabhgupta301"/>
+</p>
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
+---
 
 
