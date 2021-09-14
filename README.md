@@ -1,7 +1,7 @@
 ![Logo](https://www.clemson.edu/science/departments/math-stat/images/banner-mth-msdsa.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
 <h3 align="center">A passionate Data Analyst and Business Intelligence enthusiast from India , seeking a beginner role to enhance and explore my technical knowledge.</h3>
-<img align='centre' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='centre' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><p><img width="200" alt="hello!" align="right" src="https://giffiles.alphacoders.com/956/9562.gif"><\p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhgupta301&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhgupta301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhgupta301" alt="saurabhgupta301" /></a> </p>
