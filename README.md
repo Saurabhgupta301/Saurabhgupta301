@@ -23,7 +23,9 @@
 
 - 💬 Ask me about **Data visualization , data processing , Motivation**
 
-- 📫 How to reach me **100rabhgupta301@gmail.com**
+- 📫 How to reach me, Gmail - **100rabhgupta301@gmail.com**
+- Linkdin **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saurabhgupta301" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabhgupta301?trk=profile-badge">Saurabh Gupta</a></div>**
+              
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15ToIJfyHxU4LFiuH8GnnNF8Ny5tg4ZDe/view?usp=drivesdk](https://drive.google.com/file/d/15ToIJfyHxU4LFiuH8GnnNF8Ny5tg4ZDe/view?usp=drivesdk)
 
