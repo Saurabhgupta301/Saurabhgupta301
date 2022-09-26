@@ -27,13 +27,12 @@
 - Linkdin **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saurabhgupta301" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabhgupta301?trk=profile-badge">Saurabh Gupta</a></div>**
               
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ToIJfyHxU4LFiuH8GnnNF8Ny5tg4ZDe/view?usp=drivesdk](https://drive.google.com/file/d/15ToIJfyHxU4LFiuH8GnnNF8Ny5tg4ZDe/view?usp=drivesdk)
+- 📄 Know about my experiences [Portfolio Website](https://saurabhgupta301.github.io/)
 
 - ⚡ Fun fact ** I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/100rabhgupta6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="100rabhgupta6" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saurabhgupta301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhgupta301" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16897751/saurabh-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saurabh-gupta" height="30" width="40" /></a>
 <a href="https://kaggle.com/saurabhgupta301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saurabhgupta301" height="30" width="40" /></a>
