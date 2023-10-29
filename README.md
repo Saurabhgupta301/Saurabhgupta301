@@ -3,15 +3,15 @@
 
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
-<h3 align="center">A passionate Data Analyst and Business Intelligence enthusiast from India , seeking a beginner role to enhance and explore my technical knowledge.</h3>
+<h3 align="center">A passionate Data Analyst and Business Intelligence enthusiast from India with 1 year of experience in Data Science , seeking a challenging and career-advancing role to enhance and explore my technical knowledge.</h3>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><img width="200" alt="hello!" src="https://giffiles.alphacoders.com/956/9562.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhgupta301&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhgupta301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhgupta301" alt="saurabhgupta301" /></a> </p>
 
-- 🔭 I’m currently working on [FIFA World Cup Analysis](https://github.com/Saurabhgupta301/FIFA-World-CUP-Analysis)
+- 🔭 I’m currently working at Course5 Intelligence in Bangalore.
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m actively enhancing my knowledge in **Data Science**
 
 - 👯 I’m looking to collaborate on **Open Source Data Analytics Project**
 
